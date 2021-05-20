@@ -1,0 +1,69 @@
+body {
+	background-image: url("https://moviesteve.com/wp-content/uploads/2021/05/400-blows-1.jpg.webp");
+    background-repeat: no-repeat;
+  	background-size: cover;
+}
+h1{
+	font-family: 'Poppins', sans-serif;
+	font-size: 130px;
+	color: #ffbd59;
+	margin-top: 5px;
+	margin-left: 40px;
+	margin-bottom: 300px;
+}
+.hr3 {
+ 	font-family: 'Julius Sans One', sans-serif;
+	text-align: left;
+	color: white;
+	font-size: 70px;
+	line-height: 1.3;
+	margin-bottom: 80px;
+}
+
+.hr4 {
+  	font-family: 'Julius Sans One', sans-serif;
+	text-align: left;
+	color: #ffbd59;
+	font-size: 70px;
+	line-height: 1.3;
+	margin-bottom: 80px;
+}
+.loginAlign{
+	font-family: 'Julius Sans One', sans-serif;
+	font-size: 35px;
+	text-align: right;
+	line-height: 0.3;
+	margin-right: 120px;
+}
+a{
+	color: #ffbd59;
+	text-decoration: none;
+}
+a:hover{
+	color: white;	
+}
+.same-line {
+    height: 10px;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.same-line div{
+    display: inline-block;
+    position: absolute;
+}
+.on-the-left{
+	left:0px;
+	font-style: italic;
+}
+.on-the-center{
+    left: 0%;
+    right: 0%;
+    text-align: center;
+}
+.on-the-right{
+    right: 0px;
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+}

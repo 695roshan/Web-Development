@@ -1,0 +1,90 @@
+body {
+	background-image: url("https://3.bp.blogspot.com/-bRaQEJdIjb0/WJ1Y8dH6xmI/AAAAAAAAo94/lWLHfW3V4vs3GfTFGhaVyfY_howcirkhgCEw/s1600/Fallen-Angels-X18.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+	font-family: 'Poppins', sans-serif;
+	font-size: 50px;
+	color: #ffbd59;
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-bottom: 80px;
+}
+.logIn {
+ 	font-family: 'Julius Sans One', sans-serif;
+	text-align: center;
+	color: #ffbd59;
+	font-size: 75px;
+	line-height: 1.3;
+	margin-bottom: 10px;
+	margin-top:100px;
+}
+div form{
+	margin: 10px 200px 10px 575px;
+	width: 60%;
+}
+input[type=email] {
+  background-color: white;
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+  opacity: 0.5;
+  padding: 10px 0px 10px 15px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+}
+input[type=password] {
+  font-family: 'Poppins', sans-serif;
+  background-color: white;
+  font-size: 30px;
+  opacity: 0.5;
+  padding: 10px 0px 10px 15px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+}
+button {
+  background-color: #ffbd59; 
+  border: none;
+  border-radius: 12px;
+  padding: 10px 30px 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Julius Sans One', sans-serif;
+  color: white;
+  font-size: 40px;
+  margin: 0px 450px 2px 80px;
+}
+.bottomText {
+	margin:0px 300px 15px 620px;
+	display: inline-block;
+}
+.bottomText a{
+	color: white;
+	text-decoration: none;
+	font-family: 'Poppins', sans-serif;
+}
+.same-line {
+    height: 10px;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.same-line div{
+    display: inline-block;
+    position: absolute;
+}
+.on-the-left{
+	left:0px;
+	font-style: italic;
+}
+.on-the-center{
+    left: 0%;
+    right: 0%;
+    text-align: center;
+}
+.on-the-right{
+    right: 0px;
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+}
